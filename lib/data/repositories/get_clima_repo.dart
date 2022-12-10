@@ -64,7 +64,6 @@ class HttpGetClima extends GetClimaRepository {
       }
     } catch (e) {
       //
-      print('No se cunsumio la api :: $e');
     }
 
     return ret;
