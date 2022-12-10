@@ -57,10 +57,10 @@ Notas:
     Los requisitos son los siguientes:
 
 1.	En la pantalla principal se debe mostrar:
-    a.	Una lista donde todos los agendamientos estén ordenados por fecha, en orden ascendente. 
-
+    a.	Una lista donde todos los agendamientos estén ordenados por fecha, en orden ascendente.
+    
     b.	La lista debe mostrar:
-        i.	Nombre de la cancha, 
+        i.	Nombre de la cancha. 
         ii.	Fecha del agendamiento
         iii.	Nombre del usuario que realizó el agendamiento. 
         iV.	Porcentaje de probabilidad de lluvia para este día.

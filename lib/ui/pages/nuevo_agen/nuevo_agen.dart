@@ -134,8 +134,6 @@ class _NuevoAgendamientoState extends State<NuevoAgendamiento> {
 
             isCupo = true;
 
-            print('⭐ ${getClima.current.humidity}');
-
             // Se crea datos del clima de la cancha
             ctrler.elClima = SelectedClima(
               img: getClima.current.condition.icon,
